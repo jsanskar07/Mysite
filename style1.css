@@ -1,0 +1,50 @@
+body{
+	background-color: #000000;
+}
+header{
+	background-color:#282a2b;
+}
+
+#d1 {
+	background-color: #3f4142;
+	height: 50px;
+	font-size: 150%;
+	text-decoration: underline;
+}
+
+
+#d2 {
+	background-color:#7d8185;
+	float: right;
+	font-size: 150%;
+	color:#fffefa;
+}
+nav{
+	font-size: 150%;
+}
+figcaption {
+	color: white;
+	text-decoration: underline;
+}
+h2{
+	color:white;
+	background-color:#9e8b8f;
+}
+p{
+	color:#d0d0d6;
+}
+#d3 {
+	background-color:#575051;
+}
+h1{
+	text-align: center;
+}
+#d4 {
+	background-color:#575051;
+}
+#d5{
+	background-color:#575051;
+}
+img{
+	align-self: center;
+}
